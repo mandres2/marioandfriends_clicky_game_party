@@ -80,7 +80,7 @@ The motive of creating this application was to study and understand the foundati
 <br>
 :heavy_check_mark: 11.5 - Read requirements and establish repository and README. Created React App and started working on strucutre and organization of the application
 <br>
-:heavy_check_mark: 11.6 -
+:heavy_check_mark: 11.6 - Review class activities. Created files nested within Card, Header, and Wrapper folder. Focused coding back-end on App.
 <br>
 :heavy_check_mark: 11.7 -
 <br>

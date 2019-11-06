@@ -16,6 +16,7 @@
   background: white;
 }
 .card > .img-container > img {
+  margin-top: 28px;
   width: 60%
 }
 
@@ -24,3 +25,4 @@
   padding-right: 1rem;
   font-size: 15px;
 }
+

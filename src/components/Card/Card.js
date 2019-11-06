@@ -1,7 +1,7 @@
 // React declaration of dependency;
-import React from "react";
+import React from 'react';
 // import the file: Card.css
-import "./Card.css";
+import './Card.css';
 
 // Declare a variable called Card and set it as a prop. Using the fat arrow function, bind the function to a div named: className
 const Card = props => (
