@@ -1,5 +1,6 @@
-// import React Dependencies and application files.
+// import React Dependencies
 import React, { Component } from 'react';
+// Importing local files to run application
 import Card from './components/Card';
 import Header from './components/Header';
 import Wrapper from './components/Wrapper';
@@ -17,15 +18,17 @@ state = {
 
   // Establish the gameOver function.
   gameOver = () => {
+    // if this (score) is greater than the state's current highscore
     if(this.state.score > this.state.highscore) {
+      // setState highscore with the current  new state score
       this.setState({highscore: this.state.score}, function() {
-          console.log(this.state.highscore);
+          // console.log(this.state.highscore);
         });
     }
     this.state.cards.forEach(card => {
       card.count = 0;
     });
-    alert(`Game Over (╥_╥) \nscore: ${this.state.score}`);
+    alert(`Game Over... \nscore: ${this.state.score}`);
     this.setState({score: 0});
     return true;
   }
@@ -71,5 +74,5 @@ state = {
 } // Closing curly bracket for class App extends Component
 
 
-// Export App.
+// Export App --> doing this it will execute the application on the designated local port.
 export default App;
