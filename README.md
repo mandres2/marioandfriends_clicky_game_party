@@ -82,10 +82,10 @@ The motive of creating this application was to study and understand the foundati
 <br>
 :heavy_check_mark: 11.6 - Review class activities. Created files nested within Card, Header, and Wrapper folder. Focused coding back-end on App.
 <br>
-:heavy_check_mark: 11.7 -
+:heavy_check_mark: 11.7 - Rendered objects and started testing out game. Testing game.
 <br>
-:heavy_check_mark: 11.8 -
+:heavy_check_mark: 11.8 - Debugging and Testing. Fixing Front-end interfaces.
 <br>
-:heavy_check_mark: 11.9 -
+:heavy_check_mark: 11.9 - Polishing application and deployment of application.
 
 
