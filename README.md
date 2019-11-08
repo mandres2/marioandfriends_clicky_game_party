@@ -87,5 +87,3 @@ The motive of creating this application was to study and understand the foundati
 :heavy_check_mark: 11.8 - Debugging and Testing. Fixing Front-end interfaces.
 <br>
 :heavy_check_mark: 11.9 - Polishing application and deployment of application.
-
-
