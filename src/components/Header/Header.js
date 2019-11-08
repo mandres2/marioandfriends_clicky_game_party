@@ -7,13 +7,15 @@ const Header = props => (
   <div className="header">
     <div className="title">
       {props.children}</div>
-    <div className="scores">
+      <br></br>
+      div className="scores">
       Score: {props.score}
       <br></br>
       Highscore: {props.highscore}
-    </div>
+    <br></br>
+    <div className="rules">Click on an image to earn points, but don't click on any more than once!</div>
   </div>
 );
 
-// Export the object so that it can be used
+// Export the object so that it can be run in App.js
 export default Header;

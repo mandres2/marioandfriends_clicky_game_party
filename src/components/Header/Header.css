@@ -1,6 +1,7 @@
 .header {
+  font-family: 'Press Start 2P', cursive;
   width: 100%;
-  font-size: 2rem;
+  font-size: 1.0rem;
   color: black;
   margin-bottom: 10px;
 }

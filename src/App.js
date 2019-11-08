@@ -41,7 +41,7 @@ state = {
         if(cards[i].count === 0) {
           cards[i].count = cards[i].count+1;
           this.setState({score : this.state.score + 1}, function(){
-            console.log(this.state.score);
+            // console.log(this.state.score);
           });
           // This line of code is used to randomize the cards once the user clicks on one.
           this.state.cards.sort(() => Math.random() - 0.5)
@@ -59,7 +59,8 @@ state = {
   render () {
     return (
       <Wrapper>
-        <Header score={this.state.score} highscore={this.state.highscore}><img class='headerTitle' src={'https://fontmeme.com/permalink/191107/b3f40eb52d1ae848ed93ed4da5f14c18.png'} /></Header>
+        <Header score={this.state.score} highscore={this.state.highscore}>
+        <img class='headerTitle' src={'https://fontmeme.com/permalink/191107/b3f40eb52d1ae848ed93ed4da5f14c18.png'} /></Header>
         {this.state.cards.map(card => (
           <Card
             clickCount={this.clickCount}

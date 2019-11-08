@@ -2,7 +2,7 @@
 
 ![alt text]('link')
 
-Simple memory game built with React.js
+A Simple memory game built with React.js
 
 ## Motive
 
@@ -58,6 +58,7 @@ The motive of creating this application was to study and understand the foundati
 * "react": "^16.11.0",
 * "react-dom": "^16.11.0",
 * "react-scripts": "3.2.0"
+* ESLint
 
 ## Author
 
