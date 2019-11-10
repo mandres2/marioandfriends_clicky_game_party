@@ -2,7 +2,7 @@
 
 ![alt text](./public/images/mario_gif.gif)
 
-A Simple memory game built with React.js
+Simple mario-party themed memory game built utilizing React.js
 
 ## Motive
 
@@ -24,10 +24,9 @@ The motive of creating this application was to study and understand the foundati
 <br>
 :black_small_square: Heroku - Container-based cloud Platform as a Service (PaaS). Heroku enables developers to build, run, and operate applications entirely in the cloud.
 
+## Code Explanation
 
-## Code Explanation:
-
-## How To Use The Application:
+## How To Use The Application
 
 1. The anatomy of the application is depicted as the following:
    a. node_modules contain the dependencies used in the application.
