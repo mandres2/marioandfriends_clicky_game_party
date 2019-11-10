@@ -1,6 +1,6 @@
 # Mario and Friends Clicky Game Party
 
-![alt text]('link')
+![alt text](./public/images/mario_gif.gif)
 
 A Simple memory game built with React.js
 
@@ -30,10 +30,16 @@ The motive of creating this application was to study and understand the foundati
 ## How To Use The Application:
 
 1. The anatomy of the application is depicted as the following:
-   a.
-   b.
-   c.
-   d.
+   a. node_modules contain the dependencies used in the application.
+   b. public folder primarily contain the front-end files (.png, .gif, .html, .ico) and folder - images
+   c. src contains the components folder as well as the application logic, css and the data itself.
+    i. components folder contained the following:
+      1. Card (which is the folder that holds the characters card)
+      2. Header contained the title and score front-end
+      3. Wrapper was the "container" that held the cards together.
+   d. .gitignore (ignores the node_modules folder when conducting the add, commit and push commands)
+   e. LICENSE - standard license under the MIT
+   f. package-lock/package.json contain the downloaded npm dependencies utilized for this application.
 
 ## Deployment
 
@@ -58,7 +64,7 @@ The motive of creating this application was to study and understand the foundati
 * "react": "^16.11.0",
 * "react-dom": "^16.11.0",
 * "react-scripts": "3.2.0"
-* ESLint
+
 
 ## Author
 
@@ -76,15 +82,15 @@ The motive of creating this application was to study and understand the foundati
 
 - <b>Teacher</b> - Arron Linton
 
-## Progress Log:
+## Progress Log
 
 <br>
-:heavy_check_mark: 11.5 - Read requirements and establish repository and README. Created React App and started working on strucutre and organization of the application
+:heavy_check_mark: 11.5 - Read requirements and establish repository and README. Created React App and started working on structure and organization of the application
 <br>
-:heavy_check_mark: 11.6 - Review class activities. Created files nested within Card, Header, and Wrapper folder. Focused coding back-end on App.
+:heavy_check_mark: 11.6 - Review class activities. Created files nested within Card, Header, and Wrapper folder. Focused coding back-end on App
 <br>
-:heavy_check_mark: 11.7 - Rendered objects and started testing out game. Testing game.
+:heavy_check_mark: 11.7 - Rendered objects and started testing out game. Testing game
 <br>
-:heavy_check_mark: 11.8 - Debugging and Testing. Fixing Front-end interfaces.
+:heavy_check_mark: 11.8 - Debugging and Testing. Fixing Front-end interfaces
 <br>
-:heavy_check_mark: 11.9 - Polishing application and deployment of application.
+:heavy_check_mark: 11.9 - Polishing application and deployment of application

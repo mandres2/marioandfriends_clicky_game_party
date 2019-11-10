@@ -16,7 +16,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "description": "Simple memory game written in React",
+  "description": "Simple mario-party theme memory game written in React",
   "main": "index.js",
   "devDependencies": {},
   "keywords": [],
