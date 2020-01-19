@@ -1,6 +1,6 @@
 # Mario and Friends Clicky Game Party
 
-![alt text](./public/images/mario_gif.gif)
+![alt text](https://github.com/mandres2/marioandfriends_clicky_game_party/blob/master/images/mario_gif.gif?raw=true)
 
 Simple mario-party themed memory game built utilizing React.js
 
