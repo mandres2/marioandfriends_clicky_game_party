@@ -1,6 +1,6 @@
 # Mario and Friends Clicky Game Party
 
-![alt text]('link')
+![alt text]('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F2tL9uCp8IBxlUC0NqP%2Fgiphy.gif&f=1&nofb=1')
 
 A Simple memory game built with React.js
 
