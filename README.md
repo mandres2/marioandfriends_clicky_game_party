@@ -1,7 +1,5 @@
 # Mario and Friends Clicky Game Party
 
-![alt text]('https://media.giphy.com/media/2tL9uCp8IBxlUC0NqP/giphy.gif')
-
 A Simple memory game built with React.js
 
 ## Motive
